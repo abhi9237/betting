@@ -5,5 +5,5 @@ class ApiConstant {
 
   factory ApiConstant() => _instance ??= ApiConstant._();
 
-  static const String localBaseUrl = '';
+  static const String localBaseUrl = 'http/';
 }
